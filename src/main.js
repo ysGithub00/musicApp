@@ -7,7 +7,8 @@ import router from './router' // vue-router
 import store from './store' // vuex
 
 import '@/common/scss/index.scss'
-
+//提交第一次分支远程分支aa
+//提交第一次分支远程分支bb
 // 移动端调试工具，在移动端输出日志
 /* eslint-disable no-unused-vars */
 // import vConsole from 'vconsole'
